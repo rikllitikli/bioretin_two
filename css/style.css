@@ -331,7 +331,7 @@ header .botton:hover{
     position: absolute;
     right: 105px;
     bottom: 0;
-    max-width: 393px;
+    max-width: 260px;
     width: 100%;
     z-index: 1;
 }
@@ -343,7 +343,7 @@ header .botton:hover{
         position: absolute;
         right: 0;
         bottom: 246px;
-        max-width: 250px;
+        max-width: 190px;
     }
 }
 .scr_one .right .name_doctor{
@@ -783,6 +783,15 @@ header .botton:hover{
         width: 100%;
         border-top-right-radius: 0;
         border-bottom-right-radius: 0;
+    }
+}
+.scr_seven img{
+    max-width: 321px;
+}
+@media (max-width: 540px) {
+    .scr_seven img{
+        max-width: 100%;
+        width: 100%;
     }
 }
 .scr_seven h2{
