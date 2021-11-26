@@ -11,6 +11,12 @@ header {
     margin-right: auto;
     z-index: 100;
 }
+@media (max-width: 992px){
+    header{
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.15) 0%, rgba(1, 131, 226, 0.15) 100%);
+        backdrop-filter: blur(8px);
+    }
+}
 .navbar-light .navbar-toggler{
     background: linear-gradient(180deg, #D2E8F8 0%, #479DD6 100%);
     z-index: 80;
