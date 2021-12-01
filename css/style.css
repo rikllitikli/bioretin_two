@@ -1095,7 +1095,7 @@ header .botton:hover{
 .partners .owl-nav .owl-prev {
     position: absolute;
     left: -37px}
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 922px) {
     .partners  .owl-nav .owl-prev {
         left: 10px } }
 
@@ -1116,7 +1116,7 @@ header .botton:hover{
 .partners .owl-nav .owl-next {
     position: absolute;
     right: -49px}
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 992px) {
     .partners .owl-nav .owl-next {
         right: 15px; } }
 
@@ -1207,7 +1207,7 @@ header .botton:hover{
 }
 .coment .owl-nav {
     position: absolute;
-    bottom: 200px;
+    bottom: 300px;
     width: 100%; }
 @media (max-width: 992px) {
     .coment .owl-nav{
@@ -1218,7 +1218,7 @@ header .botton:hover{
 .coment .owl-nav .owl-prev {
     position: absolute;
     left: -37px}
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 992px) {
     .coment  .owl-nav .owl-prev {
         left: 10px } }
 
@@ -1240,7 +1240,7 @@ header .botton:hover{
 .coment .owl-nav .owl-next {
     position: absolute;
     right: -49px}
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 992px) {
     .coment .owl-nav .owl-next {
         right: 7px; } }
 
